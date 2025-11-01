@@ -1,0 +1,38 @@
+PackPal SIMPLE — Packing List
+Generated: 2025-11-02 00:10
+Trip length: 3 day(s)
+Activities: beach, photo
+Climate: cold
+----------------------------------------
+
+[Clothing]
+• T-shirt x2
+• Underwear x3
+• Socks x3
+• Sleepwear
+• Swimwear
+• Warm coat
+• Thermal top x2
+
+[Documents]
+• ID / Passport
+
+[Electronics]
+• Phone + charger
+• Camera
+• Spare battery
+• SD card x2
+
+[Misc]
+• Water bottle
+• Sunscreen
+• Sunglasses
+• Beach towel
+• Lip balm
+• Medications
+• Cash
+
+[Toiletries]
+• Toothbrush
+• Toothpaste
+• Face wash
